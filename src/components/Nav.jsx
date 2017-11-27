@@ -2,7 +2,7 @@ import React from "react";
 
 function Nav(props){
   return(
-    <h1>Soon a Nav</h1>
+    <h3>Soon a Nav</h3>
   );
 }
 

@@ -13,11 +13,11 @@ function Home(props){
 }
 
 Home.propTypes = {
-  roomType = PropTypes.string,
-  beds = PropTypes.integer,
-  name = PropTypes.string,
-  price = PropTypes.integer,
-  rating = PropTypes.integer
+  roomType: PropTypes.string,
+  beds: PropTypes.number,
+  name: PropTypes.string,
+  price: PropTypes.number,
+  rating: PropTypes.number
 };
 
 export default Home;
